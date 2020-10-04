@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello There 👋
+### My name is Nicholas Blackburn 😄
 
-<!--
-**NicholasBlackburn1/NicholasBlackburn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little about me 
+- ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism and ADHD**.
+- 🌱 I’m currently learning how to Work on other Peoples Software Projects. 
+- 😄 Pronouns: Him /he / i really dont care just call me by my name. 
+- 💬 What are my Intrests: well **Minecraft**, **Programming**, **Anime & Furries**, **Robotics** and **MORE**
+- 📫 How to reach me: email me at **nicholasblackburn02@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What Programming languages I Know 
+- ☕ java 
+- 🐍 python
