@@ -12,4 +12,4 @@
 ## What Programming languages I Know 
 - ☕ java 
 - 🐍 python
-- 💎 c#
+- 💎 c/c++/c#
