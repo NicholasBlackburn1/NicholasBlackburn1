@@ -1,6 +1,5 @@
 ## Hello There 👋
 ### My name is Nicholas Blackburn 😄
-#### DominOwOs
 ## A little about me 
 - ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism and ADHD**.
 - 🌱 I’m currently learning how to Work on other Peoples Software Projects. 
