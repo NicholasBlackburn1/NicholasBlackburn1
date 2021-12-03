@@ -11,3 +11,4 @@
 - ☕ java 
 - 🐍 python
 - 💎 c/c++/c#
+- Lua kinda
