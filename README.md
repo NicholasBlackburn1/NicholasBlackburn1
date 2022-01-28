@@ -10,5 +10,6 @@
 ## What Programming languages I Know 
 - ☕ java 
 - 🐍 python
-- 💎 c/c++/c#
-- Lua kinda
+- 💎 c#
+- a little of c++
+
