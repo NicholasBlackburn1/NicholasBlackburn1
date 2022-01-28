@@ -1,7 +1,8 @@
 ## Hello There 👋
 ### My name is Nicholas Blackburn 😄
 ## A little about me 
-- ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism and ADHD**.
+
+- ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism, ADHD and A Trans Woman UwU**.
 - 🌱 I’m currently learning how to Work on other Peoples Software Projects. 
 - 😄 Pronouns: **She/Her**
 - 💬 What are my Intrests: well **Steven Universe**, **Minecraft**, **Programming**, **Anime & Furries**, **Robotics**, **DevOps**
