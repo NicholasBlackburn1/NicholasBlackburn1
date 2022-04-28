@@ -17,6 +17,6 @@
 
 ## What i develop
 - facial reconition securitiy system 
-- blackburn 1.16-1.18 minecraft clients 
+- Blackburn 1.16-1.18 minecraft clients 
 - FoxClient- A furry Vrchat client
 
