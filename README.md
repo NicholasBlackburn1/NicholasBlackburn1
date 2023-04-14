@@ -1,5 +1,5 @@
 ## Hello There 👋
-### My name is Nicholas Blackburn 😄
+### My name is Nicky Blackburn 😄
 ## A little about me 
 
 - ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism, ADHD and A Trans Woman UwU**.
