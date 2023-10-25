@@ -3,7 +3,7 @@
 ## A little about me 
 
 - ⚡ Fun fact: I Am A Student Software Dev with **High Functioning Autism, ADHD and A Trans Woman UwU**.
-- 🌱 I’m currently learning how to Work on other Peoples Software Projects. 
+- 🌱 I’m currently learning to Work on other Peoples Software Projects. 
 - 😄 Pronouns: **She/Her**
 - 💬 What are my Intrests: well **Steven Universe**, **Minecraft**, **Programming**, **Anime & Furries**, **Robotics**, **DevOps**
 - 📫 How to reach me: email me at **nicholasblackburn02@gmail.com**
@@ -15,8 +15,10 @@
 - 💎 c#
 - a little of c++
 
-## What i develop
-- facial reconition securitiy system 
-- Blackburn 1.16-1.18 minecraft clients 
-- FoxClient- A furry Vrchat client
+## What i am currently working on
+- SecuServe - facial recognition security system 
+- Blackburn - 1.19 Minecraft client 
+- Foxstore - A Vrchat avatar & user information webapp
+- Mascot Monitor - a mascot Monitoring hardware and software
+- Mascot species recognizer - an opencv and dlib model  for detecting mascot suit specises
 
