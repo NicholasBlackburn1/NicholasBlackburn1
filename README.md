@@ -21,4 +21,5 @@
 - Foxstore - A Vrchat avatar & user information webapp
 - Mascot Monitor - a mascot Monitoring hardware and software
 - Mascot species recognizer - an opencv and dlib model  for detecting mascot suit specises
+- AI/ML Reseaching -> llvms and just some basic tensorflow classification stuffies
 
