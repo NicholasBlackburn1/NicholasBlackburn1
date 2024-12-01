@@ -24,4 +24,7 @@
 - AI/ML Reseaching -> llvms and just some basic tensorflow classification stuffies
 
 ## My other dev accounts
-- gitlab <img src= "https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" width="30" height="30"> https://gitlab.com/lewdthefoxgirl
+<a href="https://gitlab.com/lewdthefoxgirl">
+  <img alt="gitlab" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" width="30" height="30">
+  GitLab
+</a>
