@@ -28,3 +28,8 @@
   <img alt="gitlab" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" width="30" height="30">
   GitLab
 </a>
+
+<a href="https://discord.com/users/349970363813330954">
+  <img alt="discord" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Discord_Logo_full_white.svg" width="30" height="30">
+  Discord
+</a>
